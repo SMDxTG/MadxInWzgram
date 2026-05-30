@@ -1,13 +1,13 @@
-# This file is a part of NEO-WZML (github.com/irisXDR/NEO-WZML)
-
 asyncio
 aiofiles
 aiohttp
 aioshutil
 anytree
 apscheduler
+beautifulsoup4
 aioaria2
 aioqbt
+imdbinfo
 cloudscraper
 dnspython
 fastapi
@@ -22,15 +22,13 @@ language-data
 jinja2
 lxml
 motor
-#MegaSDK
-#mega-sdk-python
 natsort
 par2cmdline-turbo
 pillow
 psutil
 pycountry
 pymongo
-pyroblack
+pyrotgfork
 python-magic
 pytz
 qbittorrent-api
@@ -38,12 +36,9 @@ requests
 speedtest-cli
 telegraph
 tenacity
-tgcrypto-pyrofork
+tgcrypto
 urllib3
 uvicorn
-uv
 uvloop==0.21.0
 xattr
 yt-dlp[default,curl-cffi]
-parse-torrent-name
-
