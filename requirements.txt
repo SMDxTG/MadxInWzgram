@@ -46,3 +46,4 @@ yt-dlp[default,curl-cffi]
 niquests
 rapidfuzz
 pyyaml
+cryptography
